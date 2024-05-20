@@ -1,0 +1,1 @@
+vless://24f8274c-b22c-4031-b182-e9fd17f0d13c@45.88.188.104:6193?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Hello-world&sni=pinterest.com#%E2%99%88+VPN+%5B1%5D
